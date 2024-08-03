@@ -18,7 +18,7 @@
       "*.la",
       "*.a"
     ],
-    "modules":[
+    "modules": [
       {
         "name":"haysell-pos",
         "buildsystem":"cmake-ninja",
