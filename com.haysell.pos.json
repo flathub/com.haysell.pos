@@ -26,7 +26,7 @@
           {
             "type":"git",
             "url":"https://github.com/Delphi251189/haysell-pos.git",
-            "commit" : "7db237ea4ff6b982a6822facd7a115f64e507a6f"
+            "commit" : "3d50731399b688dba264bb3842ac7117deac2ee6"
           }
         ],
         "post-install": [
